@@ -1,3 +1,6 @@
+转到  https://github.com/go-home-admin/home-toolset-php 维护
+
+
 # home-toolset-php
 使用php编写的go编译工具
 
